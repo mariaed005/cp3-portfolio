@@ -1,7 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 export default function Cabecalho() {
   return (
-    <div>Cabecalho</div>
-  )
+    <header className="flex items-center justify-between py-4">
+      <div className="text-2xl font-bold">
+        PORTFOLIO
+      </div>
+    </header>
+  );
 }
