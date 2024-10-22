@@ -5,17 +5,13 @@ export default function DetalheAvaliacao() {
   const router = useRouter();
   const { id } = router.query;
 
-  // Dados fictícios para demonstração
   const avaliacao = {
-    titulo: 'Checkpoint 1',
-    descricao: 'Primeira avaliação de progresso.',
+    id,
+    titulo: `Avaliação ${id}`,
+    descricao: 'Detalhes sobre a avaliação.',
     data: '2024-01-15',
-    feedback: 'Bom desempenho geral, mas precisa melhorar em lógica de programação.'
+    feedback: 'Feedback específico sobre esta avaliação.'
   };
-
-  if (!id) {
-    return <div>Carregando...</div>;
-  }
 
   return (
     <div className="container mx-auto p-4">

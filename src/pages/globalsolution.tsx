@@ -2,10 +2,23 @@ import React from 'react';
 import CardAvaliacao from '@/components/CardAvaliacao';
 
 export default function GlobalSolution() {
-  // Dados de exemplo
   const solutions = [
-    { id: 1, titulo: 'GlobalSolution 1', descricao: 'Projeto Integrador 1', data: '2024-03-10' },
-    { id: 2, titulo: 'GlobalSolution 2', descricao: 'Projeto Integrador 2', data: '2024-06-05' },
+    { 
+      id: 1, 
+      titulo: 'GlobalSolution 1', 
+      descricao: 'Projeto integrador inicial', 
+      data: '2024-04-10',
+      nota: 9.0, 
+      feedback: 'Excelente trabalho!' 
+    },
+    { 
+      id: 2, 
+      titulo: 'GlobalSolution 2', 
+      descricao: 'Projeto integrador avançado', 
+      data: '2024-06-15',
+      nota: 8.5, 
+      feedback: 'Bom desempenho com algumas melhorias sugeridas.' 
+    },
   ];
 
   return (
@@ -17,6 +30,8 @@ export default function GlobalSolution() {
           titulo={solution.titulo}
           descricao={solution.descricao}
           data={solution.data}
+          nota={solution.nota}
+          feedback={solution.feedback}
         />
       ))}
     </div>

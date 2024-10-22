@@ -5,3 +5,9 @@
 body {
   @apply bg-gray-100 text-gray-800;
 }
+
+.bg-paperboard {
+  background-image: url('/images/crumpled-white-paperboard.jpg');
+  background-size: cover;
+  background-position: center;
+}
