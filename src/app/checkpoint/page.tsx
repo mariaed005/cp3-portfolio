@@ -1,3 +1,4 @@
+"use client"
 import CardAvaliacao from '@/components/Card/CardAvaliacao';
 import { useEffect, useState } from 'react';
 

@@ -10,17 +10,17 @@ export default function Menu() {
           </Link>
         </li>
         <li>
-          <Link href="/checkpoints" className="text-white hover:text-blue-950">
+          <Link href="/checkpoint" className="text-white hover:text-blue-950">
             CheckPoints
           </Link>
         </li>
         <li>
-          <Link href="/globalsolution" className="text-white hover:text-blue-950">
+          <Link href="/gs" className="text-white hover:text-blue-950">
             GlobalSolution
           </Link>
         </li>
         <li>
-          <Link href="/challengersprints" className="text-white hover:text-blue-950">
+          <Link href="/challenge" className="text-white hover:text-blue-950">
             Challenger Sprints
           </Link>
         </li>

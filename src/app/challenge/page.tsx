@@ -1,6 +1,6 @@
 import CardAvaliacao from '@/components/Card/CardAvaliacao';
 
-export default function ChallengerSprints() {
+export default function Challenge() {
   const sprints = [
     {
       id: 1,
