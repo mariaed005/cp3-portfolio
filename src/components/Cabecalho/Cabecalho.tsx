@@ -1,11 +1,11 @@
 import React from 'react';
+import Menu from '../Menu/Menu';
 
 export default function Cabecalho() {
   return (
-    <header className="flex items-center justify-between py-4">
-      <div className="text-2xl font-bold">
-        PORTFOLIO
-      </div>
+    <header>
+      <div>PORTFOLIO</div>
+      <Menu/>
     </header>
   );
 }

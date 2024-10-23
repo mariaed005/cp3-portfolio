@@ -10,13 +10,13 @@ interface CardAvaliacaoProps {
 
 export default function CardAvaliacao({ titulo, descricao, data, nota, feedback }: CardAvaliacaoProps) {
   return (
-    <div className="bg-white p-4 border rounded-lg shadow-md mb-4">
-      <h2 className="text-2xl font-bold mb-2">{titulo}</h2>
-      <p className="mb-2">{descricao}</p>
-      <p className="text-gray-600 mb-1">Data: {data}</p>
-      <p className="text-gray-600 mb-1">Nota: {nota}</p>
-      <div className="bg-gray-100 p-2 rounded">
-        <p className="text-sm font-semibold">Feedback:</p>
+    <div className="card">
+      <h2>{titulo}</h2>
+      <p className="descricao">{descricao}</p>
+      <p className="data">Data: {data}</p>
+      <p className="nota">Nota: {nota}</p>
+      <div>
+        <p className="feedback">Feedback:</p>
         <p>{feedback}</p>
       </div>
     </div>

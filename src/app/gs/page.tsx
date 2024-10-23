@@ -21,8 +21,8 @@ export default function GlobalSolution() {
   ];
 
   return (
-    <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-8">GlobalSolution</h1>
+    <div>
+      <h1>GlobalSolution</h1>
       {solutions.map((solution) => (
         <CardAvaliacao
           key={solution.id}

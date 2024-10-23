@@ -34,8 +34,8 @@ export default function Checkpoints() {
   }
 
   return (
-    <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-8">CheckPoints</h1>
+    <div>
+      <h1>CheckPoints</h1>
       {checkpoints.map((checkpoint) => (
         <CardAvaliacao
           key={checkpoint.id}

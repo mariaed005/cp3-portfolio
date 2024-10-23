@@ -2,12 +2,114 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply bg-gray-100 text-gray-800;
+@layer components{
+  body{
+    @apply bg-gray-100;
+  }
+  header{
+    @apply flex items-center justify-between py-4 bg-blue-600 text-white;
+    & div{
+      @apply text-2xl font-bold;
+    }
+    & nav{
+      @apply my-4;
+      & ul{
+        @apply flex space-x-4;
+        & li{
+          & a{
+            @apply text-white hover:text-blue-950;
+          }
+        }
+      }
+    }
+  }
+  
+  .notFound{
+    @apply flex flex-col items-center justify-center min-h-screen;
+
+    & h1{
+      @apply text-4xl font-bold mb-4;
+    }
+
+    & p{
+      @apply text-lg mb-8;
+    }
+
+    & a{
+      @apply bg-blue-600 text-white px-4 py-2 rounded;
+    }
+  }
+  
+  main{
+    @apply container mx-auto px-4 py-8;
+
+    & h1{
+      @apply text-4xl font-bold mb-8;
+    }
+  
+    & .home{
+      @apply flex flex-col items-center justify-center min-h-screen bg-background;
+
+      & div{
+        @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full px-4;
+
+        & a{
+          @apply text-white p-4 rounded-lg shadow-md transition flex flex-col items-start;
+
+          h2{
+            @apply text-2xl font-bold mb-2;
+          }
+        }
+        & .checkpoints{
+          @apply bg-blue-600 hover:bg-blue-700 ;
+        }
+
+        & .gs{
+          @apply bg-green-600 hover:bg-green-700 ;
+        }
+
+        & .challenge{
+          @apply bg-red-600 hover:bg-red-700;
+        }
+      }
+    }
+  }
+
+  
+  .card{
+    @apply bg-white p-4 border rounded-lg shadow-md mb-4;
+  
+    & h2{
+      @apply text-2xl font-bold mb-2;
+    }
+    & descricao{
+      @apply mb-2;
+    }
+    & data{
+      @apply text-gray-600 mb-1;
+    }
+    & nota{
+      @apply text-gray-600 mb-1;
+    }
+    & div{
+      @apply bg-gray-100 p-2 rounded;
+    }
+    & feedback{
+      @apply text-sm font-semibold;
+    }
+  }
+  
+  footer{
+    @apply bg-gray-800 text-white py-4 mt-8;
+    & div{
+      @apply text-center;
+      & h2{
+        @apply text-lg font-semibold;
+        & p {
+          @apply text-sm;
+        }
+      }
+    }
+  }
 }
 
-.bg-paperboard {
-  background-image: url('/images/crumpled-white-paperboard.jpg');
-  background-size: cover;
-  background-position: center;
-}

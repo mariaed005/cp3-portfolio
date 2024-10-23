@@ -2,27 +2,19 @@ import Link from 'next/link';
 
 export default function Menu() {
   return (
-    <nav className="my-4">
-      <ul className="flex space-x-4">
+    <nav>
+      <ul>
         <li>
-          <Link href="/" className="text-white hover:text-blue-950">
-            Início
-          </Link>
+          <Link href="/">Início</Link>
         </li>
         <li>
-          <Link href="/checkpoint" className="text-white hover:text-blue-950">
-            CheckPoints
-          </Link>
+          <Link href="/checkpoint">CheckPoints</Link>
         </li>
         <li>
-          <Link href="/gs" className="text-white hover:text-blue-950">
-            GlobalSolution
-          </Link>
+          <Link href="/gs">GlobalSolution</Link>
         </li>
         <li>
-          <Link href="/challenge" className="text-white hover:text-blue-950">
-            Challenger Sprints
-          </Link>
+          <Link href="/challenge">Challenger Sprints</Link>
         </li>
       </ul>
     </nav>
