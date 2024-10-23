@@ -1,20 +1,19 @@
-import React from 'react';
-import CardAvaliacao from '@/components/CardAvaliacao';
+import CardAvaliacao from '@/components/Card/CardAvaliacao';
 
 export default function ChallengerSprints() {
   const sprints = [
-    { 
-      id: 1, 
-      titulo: 'Sprint 1', 
-      descricao: 'Desafio de programação', 
+    {
+      id: 1,
+      titulo: 'Sprint 1',
+      descricao: 'Desafio de programação',
       data: '2024-05-10',
       nota: 8.0,
       feedback: 'Bom desempenho na resolução do desafio.'
     },
-    { 
-      id: 2, 
-      titulo: 'Sprint 2', 
-      descricao: 'Desafio de design de interface', 
+    {
+      id: 2,
+      titulo: 'Sprint 2',
+      descricao: 'Desafio de design de interface',
       data: '2024-07-20',
       nota: 7.5,
       feedback: 'Interface criativa, mas com alguns ajustes necessários.'
@@ -30,7 +29,7 @@ export default function ChallengerSprints() {
           titulo={sprint.titulo}
           descricao={sprint.descricao}
           data={sprint.data}
-          nota={sprint.nota} 
+          nota={sprint.nota}
           feedback={sprint.feedback}
         />
       ))}

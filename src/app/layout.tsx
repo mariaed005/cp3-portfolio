@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Cabecalho from "@/components/Cabecalho";
-import Rodape from "@/components/Rodape";
-import Menu from "@/components/Menu";
+import Cabecalho from "@/components/Cabecalho/Cabecalho";
+import Rodape from "@/components/Rodape/Rodape";
+import Menu from "@/components/Menu/Menu";
 
 export const metadata: Metadata = {
   title: "PORTFOLIO",
