@@ -1,6 +1,6 @@
-"use client"
-import CardAvaliacao from '@/components/Card/CardAvaliacao';
-import { useEffect, useState } from 'react';
+"use client";
+import CardAvaliacao from "@/components/CardAvaliacao/CardAvaliacao";
+import { useEffect, useState } from "react";
 
 // Definir a interface para o tipo de dado das avaliações
 interface Avaliacao {
@@ -21,8 +21,22 @@ export default function Checkpoints() {
     // Simula o carregamento de dados
     setTimeout(() => {
       const data: Avaliacao[] = [
-        { id: 1, titulo: 'Checkpoint 1', descricao: 'Primeira avaliação', data: '2024-01-15', nota: 8.5, feedback: 'Boa performance.' },
-        { id: 2, titulo: 'Checkpoint 2', descricao: 'Segunda avaliação', data: '2024-02-20', nota: 7.0, feedback: 'Precisa melhorar.' },
+        {
+          id: 1,
+          titulo: "Checkpoint 1",
+          descricao: "Primeira avaliação",
+          data: "2024-01-15",
+          nota: 8.5,
+          feedback: "Boa performance.",
+        },
+        {
+          id: 2,
+          titulo: "Checkpoint 2",
+          descricao: "Segunda avaliação",
+          data: "2024-02-20",
+          nota: 7.0,
+          feedback: "Precisa melhorar.",
+        },
       ];
       setCheckpoints(data);
       setIsLoading(false);

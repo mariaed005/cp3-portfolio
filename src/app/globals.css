@@ -2,109 +2,171 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components{
-  body{
+@layer components {
+  body {
     @apply bg-gray-100;
   }
-  header{
+
+  header {
     @apply flex items-center justify-between py-4 bg-blue-600 text-white;
-    & div{
+    
+    & div {
       @apply text-2xl font-bold;
     }
-    & nav{
+    
+    & nav {
       @apply my-4;
-      & ul{
+      
+      & ul {
         @apply flex space-x-4;
-        & li{
-          & a{
+        
+        & li {
+          & a {
             @apply text-white hover:text-blue-950;
           }
         }
       }
     }
   }
-  
-  .notFound{
-    @apply flex flex-col items-center justify-center min-h-screen;
 
-    & h1{
+  .notFound {
+    @apply flex flex-col items-center justify-center min-h-screen;
+    
+    & h1 {
       @apply text-4xl font-bold mb-4;
     }
-
-    & p{
+    
+    & p {
       @apply text-lg mb-8;
     }
-
-    & a{
+    
+    & a {
       @apply bg-blue-600 text-white px-4 py-2 rounded;
     }
   }
-  
-  main{
-    @apply container mx-auto px-4 py-8;
 
-    & h1{
+  main {
+    @apply container mx-auto px-4 py-8;
+    
+    & h1 {
       @apply text-4xl font-bold mb-8;
     }
-  
-    & .home{
+
+    & .home {
       @apply flex flex-col items-center justify-center min-h-screen bg-background;
 
-      & div{
+      & div {
         @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full px-4;
 
-        & a{
+        & a {
           @apply text-white p-4 rounded-lg shadow-md transition flex flex-col items-start;
 
-          h2{
+          h2 {
             @apply text-2xl font-bold mb-2;
           }
         }
-        & .checkpoints{
-          @apply bg-blue-600 hover:bg-blue-700 ;
+        
+        & .checkpoints {
+          @apply bg-blue-600 hover:bg-blue-700;
         }
 
-        & .gs{
-          @apply bg-green-600 hover:bg-green-700 ;
+        & .gs {
+          @apply bg-green-600 hover:bg-green-700;
         }
 
-        & .challenge{
+        & .challenge {
           @apply bg-red-600 hover:bg-red-700;
         }
       }
     }
   }
 
-  
-  .card{
-    @apply bg-white p-4 border rounded-lg shadow-md mb-4;
-  
-    & h2{
+  .card {
+    @apply bg-white p-4 border rounded-lg shadow-md mb-4 flex flex-col items-center;
+
+    & img {
+      @apply w-24 h-24 rounded-full mb-4;
+    }
+
+    & h2 {
       @apply text-2xl font-bold mb-2;
     }
-    & descricao{
+
+    & descricao {
       @apply mb-2;
     }
-    & data{
+
+    & data, & nota {
       @apply text-gray-600 mb-1;
     }
-    & nota{
-      @apply text-gray-600 mb-1;
-    }
-    & div{
+
+    & div {
       @apply bg-gray-100 p-2 rounded;
     }
-    & feedback{
+
+    & feedback {
       @apply text-sm font-semibold;
     }
   }
-  
-  footer{
-    @apply bg-gray-800 text-white py-4 mt-8;
-    & div{
+
+  .details-container {
+    @apply flex flex-col items-center py-8 min-h-screen bg-gray-100;
+
+    & .details-header {
+      @apply flex flex-col items-center mb-6;
+    }
+
+    & .details-img {
+      @apply w-32 h-32 rounded-full border-4 border-blue-600 mb-4;
+    }
+
+    & .details-nome {
+      @apply text-2xl font-bold text-blue-600 mb-4;
+    }
+
+    & .details-boxes {
+      @apply flex gap-4;
+    }
+  }
+
+  .box {
+    @apply flex flex-col items-center justify-center p-4 rounded-lg shadow-md text-white;
+    transition: transform 0.3s;
+
+    & h2 {
+      @apply text-xl font-bold mb-2;
+    }
+
+    & p {
+      @apply text-sm;
+    }
+
+    &:hover {
+      @apply transform scale-105;
+    }
+  }
+
+  .checkpoint {
+    @apply bg-blue-600 hover:bg-blue-700;
+  }
+
+  .globalsolution {
+    @apply bg-green-600 hover:bg-green-700;
+  }
+
+  .challenge {
+    @apply bg-red-600 hover:bg-red-700;
+  }
+
+  footer {
+    @apply bg-blue-600 text-white py-4 mt-8;
+
+    & div {
       @apply text-center;
-      & h2{
+      
+      & h2 {
         @apply text-lg font-semibold;
+        
         & p {
           @apply text-sm;
         }
@@ -112,4 +174,3 @@
     }
   }
 }
-
