@@ -16,194 +16,192 @@
 
         "checkpoints":{
             "cp1":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp2":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp3":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp4":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp5":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ]
         },
 
@@ -257,194 +255,192 @@
 
         "checkpoints":{
             "cp1":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp2":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp3":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp4":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp5":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ]
         },
 
@@ -495,194 +491,225 @@
             "ia":100,
             "descricao":"Meu grupo da GS composto por mim, Luiz Henrique e Vicenzo fizemos um projeto onde avisamos sobre riscos de jogar plásticos no ôceano e além de mostrarmos as ongs que tem objetivo de cuidar do ôceano."
         },
+
+        "challenge":[
+            {
+                "sprint":1,
+                "python":93,
+                "data":90,
+                "front":60,
+                "software":90,
+                "java":30,
+                "ia":95,
+                "descricao":"Primeira Sprint do grupo Auto Sense"
+            },
+            {
+                "sprint":2,
+                "python":94,
+                "data":52,
+                "front":55,
+                "software":100,
+                "java":95,
+                "ia":100,
+                "descricao":"Segunda Sprint do grupo Auto Sense"
+            },
+            {
+                "sprint":3,
+                "python":85,
+                "data":70,
+                "front":70,
+                "software":80,
+                "java":95,
+                "ia":100,
+                "descricao":"Terceira Sprint do grupo Auto Sense"
+            }
+        ],
+
         "checkpoints":{
-            "cp1":{
-                "python":{
+            "cp1":[
+                {
+                    "materia":"python",
                     "nota":9.3,
                     "data":"25/03",
                     "feedback":"Muito bom"
                 },
-                "data":{
+                {
+                    "materia":"data",
                     "nota":7,
                     "data":"25/03",
                     "feedback":"Da para melhorar"
                 },
-                "front":{
+                {
                     "nota":6,
                     "data":"12/05",
                     "feedback":"O básico mas ainda é possivel desenvolver mais"
                 },
-                "software":{
+                {
                     "nota":6,
                     "data":"20/03",
                     "feedback":"O básico mas ainda é possivel desenvolver mais"
                 },
-                "java":{
+                {
+                    "materia":"java",
                     "nota":8.5,
                     "data":"22/03",
                     "feedback":"Uma boa nota"
                 },
-                "ia":{
+                {
+                    "materia":"ia",
                     "nota":10,
                     "data":"17/04",
                     "feedback":"Muito bom"
                 }
-            },
-            "cp2":{
-                "python":{
+            ],
+
+            "cp2":[
+                {
+                    "materia":"python",
                     "nota":7.6,
                     "data":"06/05",
                     "feedback":"Aluno esqueceu alguns detalhes mas fez o que precisava"
                 },
-                "data":{
+                {
+                    "materia":"data",
                     "nota":10,
                     "data":"15/04",
                     "feedback":"Muito bom"
                 },
-                "front":{
+                {
+                    "materia":"front",
                     "nota":10,
                     "data":"12/05",
                     "feedback":"Muito bom"
                 },
-                "software":{
+                {
+                    "materia":"software",
                     "nota":6.5,
                     "data":"19/04",
                     "feedback":"Aluno esqueceu alguns detalhes importantes"
                 },
-                "java":{
+                {
+                    "materia":"java",
                     "nota":8.5,
                     "data":"22/03",
                     "feedback":"Aluno fez o que foi pedido mas faltou alguns detalhes"
                 },
-                "ia":{
+                {
+                    "materia":"ia",
                     "nota":10,
                     "data":"22/05",
                     "feedback":"Muito bom"
                 }
-            },
-            "cp3":{
-                "python":{
+            ],
+
+            "cp3":[
+                {
+                    "materia":"python",
                     "nota":10,
                     "data":"20/05",
                     "feedback":"Muito bom"
                 },
-                "data":{
+                {
+                    "materia":"data",
                     "nota":0,
                     "data":"06/05",
                     "feedback":"Aluno não fez"
                 },
-                "front":{
+                {
+                    "materia":"front",
                     "nota":0,
                     "data":"10/06",
                     "feedback":"Aluno não fez"
                 },
-                "software":{
+                {
+                    "materia":"software",
                     "nota":0,
                     "data":"24/05",
                     "feedback":"Aluno não fez"
                 },
-                "java":{
+                {
+                    "materia":"java",
                     "nota":0,
                     "data":"17/05",
                     "feedback":"Aluno não fez"
                 },
-                "ia":{
+                {
+                    "materia":"ia",
                     "nota":0,
                     "data":"27/06",
                     "feedback":"Aluno não fez"
                 }
-            },
-            "cp4":{
-                "python":{
+            ],
+
+            "cp4":[
+                {
+                    "materia":"python",
                     "nota":10,
                     "data":"23/09",
                     "feedback":"Muito bom"
                 },
-                "data":{
+                {
+                    "materia":"data",
                     "nota":5,
                     "data":"09/09",
                     "feedback":"Aluno esqueceu alguns detalhes importantes"
                 },
-                "front":{
+                {
+                    "materia":"front",
                     "nota":6.5,
                     "data":"28/08",
                     "feedback":"Aluno fez uma parte do que foi pedido"
                 },
-                "software":{
+                {
+                    "materia":"software",
                     "nota":7.1,
                     "data":"21/08",
                     "feedback":"Aluno fez o que foi pedido mas faltou alguns detalhes"
                 },
-                "java":{
+                {
+                    "materia":"java",
                     "nota":8.5,
                     "data":"30/08",
                     "feedback":"Aluno fez o que foi pedido mas faltou alguns detalhes"
                 },
-                "ia":{
+                {
+                    "materia":"ia",
                     "nota":10,
                     "data":"30/09",
                     "feedback":"Muito bom"
                 }
-            },
-            "cp5":{
-                "python":{
+            ],
+
+            "cp5":[
+                {
+                    "materia":"python",
                     "nota":10,
                     "data":"14/10",
                     "feedback":"Muito bom"
                 },
-                "data":{
+                {
+                    "materia":"data",
                     "nota":10,
                     "data":"07/10",
                     "feedback":"Muito bom"
                 },
-                "front":{
+                {
+                    "materia":"front",
                     "nota":7,
                     "data":"02/10",
                     "feedback":"Aluno fez uma parte do que foi pedido"
                 },
-                "software":{
+                {
+                    "materia":"software",
                     "nota":8,
                     "data":"25/09",
                     "feedback":"Aluno fez o que foi pedido mas faltou alguns detalhes"
                 },
-                "java":{
+                {
+                    "materia":"java",
                     "nota":10,
                     "data":"27/09",
                     "feedback":"Muito bom"
-                }
-            }
-        },
-        "challenge":{ 
-            "notas":[
-                {
-                    "sprint":1,
-                    "python":93,
-                    "data":90,
-                    "front":60,
-                    "software":90,
-                    "java":30,
-                    "ia":95,
-                    "descricao":"Primeira Sprint do grupo Auto Sense"
-                },
-                {
-                    "sprint":2,
-                    "python":94,
-                    "data":52,
-                    "front":55,
-                    "software":100,
-                    "java":95,
-                    "ia":100,
-                    "descricao":"Segunda Sprint do grupo Auto Sense"
-                },
-                {
-                    "sprint":3,
-                    "python":85,
-                    "data":70,
-                    "front":70,
-                    "software":80,
-                    "java":95,
-                    "ia":100,
-                    "descricao":"Terceira Sprint do grupo Auto Sense"
                 }
             ]
         }
@@ -704,194 +731,192 @@
 
         "checkpoints":{
             "cp1":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp2":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp3":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp4":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp5":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ]
         },
 
@@ -945,194 +970,192 @@
 
         "checkpoints":{
             "cp1":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp2":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp3":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp4":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"ia",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ],
+
             "cp5":[
-                        {
-                            "materia":"python",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"data",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"front",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"software",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"java",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        },
-                        {
-                            "materia":"ia",
-                            "nota":0,
-                            "data":"00/00/00",
-                            "feedback":"Feedback da cp de vcs"
-                        }
+                {
+                    "materia":"python",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"data",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"front",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"software",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                },
+                {
+                    "materia":"java",
+                    "nota":0,
+                    "data":"00/00/00",
+                    "feedback":"Feedback da cp de vcs"
+                }
             ]
         },
 
