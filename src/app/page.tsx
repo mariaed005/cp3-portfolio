@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useEffect, useState } from 'react';
 import CardAluno from '@/components/CardAluno/CardAluno';
 import { TipoAlunos } from '@/types';
