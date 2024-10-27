@@ -2,7 +2,7 @@
     {
         "id":1,
         "nome":"Bianca",
-        "img":"url aqui",
+        "img":"/images/bia.jpeg",
 
         "gs":{
             "python":0,
@@ -241,7 +241,7 @@
     {
         "id":2,
         "nome":"Maria",
-        "img":"url aqui",
+        "img":"/images/duda.jpeg",
 
         "gs":{
             "python":0,
@@ -480,7 +480,7 @@
     {
         "id":3,
         "nome":"Erick",
-        "img":"url aqui",
+        "img":"/images/erick.jpeg",
 
         "gs":{
             "python":100,
@@ -717,7 +717,7 @@
     {
         "id":4,
         "nome":"Guilherme",
-        "img":"url aqui",
+        "img":"/images/guilherme.jpeg",
 
         "gs":{
             "python":0,
@@ -956,7 +956,7 @@
     {
         "id":5,
         "nome":"Icaro",
-        "img":"url aqui",
+        "img":"/images/icaro.jpeg",
 
         "gs":{
             "python":0,
