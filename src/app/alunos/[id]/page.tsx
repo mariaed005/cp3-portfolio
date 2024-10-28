@@ -95,7 +95,7 @@ export default function Aluno({params}:{params:{id:number}}) {
     return (
         <div className="details-container">
             <div className="details-header">
-              <Image src={aluno.img} alt={aluno.nome} className="details-img" />
+              <Image src={aluno.img} alt={aluno.nome} width={200} height={200} className="details-img" />
               <h1 className="details-nome">{aluno.nome}</h1>
             </div>
             
