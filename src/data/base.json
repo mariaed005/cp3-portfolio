@@ -252,203 +252,204 @@
         "nome":"Maria",
         "img":"/images/duda.jpeg",
 
+
         "gs":{
-            "python":0,
-            "data":0,
-            "front":0,
-            "software":0,
-            "java":0,
-            "ia":0,
-            "descricao":"Descrição da gs de vcs"
+            "python":80,
+            "data":70,
+            "front":65,
+            "software":100,
+            "java":70,
+            "ia":100,
+            "descricao":"Elaboramos um projeto chamado Save the Ocean, que tem como objetivo oferecer soluções sustentáveis para combater a poluição dos oceanos, utilizando tecnologias avançadas"
         },
 
         "checkpoints":{
             "cp1":[
                 {
                     "materia":"python",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":6.4,
+                    "data":"25/03/2024",
+                    "feedback":"Precisa melhorar alguns conceitos"
                 },
                 {
                     "materia":"data",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":6,
+                    "data":"25/03/2024",
+                    "feedback":"Cardinalidades foram colocadas de forma errada"
                 },
                 {
                     "materia":"front",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":7.5,
+                    "data":"13/05/2024",
+                    "feedback":"Css no lugar errado"
                 },
                 {
                     "materia":"software",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":9,
+                    "data":"20/03/2024",
+                    "feedback":"Trabalho bem feito"
                 },
                 {
                     "materia":"java",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":7.5,
+                    "data":"22/03/2024",
+                    "feedback":"Não adicionou todos os métodos"
                 },
                 {
                     "materia":"ia",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":10,
+                    "data":"17/04/2024",
+                    "feedback":"Parabéns!"
                 }
             ],
 
             "cp2":[
                 {
                     "materia":"python",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":7.1,
+                    "data":"06/05/2024",
+                    "feedback":"Bom desempenho, mas faltaram alguns ajustes"
                 },
                 {
                     "materia":"data",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":8,
+                    "data":"15/04/2024",
+                    "feedback":"Cardinalidades trocadas"
                 },
                 {
                     "materia":"front",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":10,
+                    "data":"20/05/2024",
+                    "feedback":"Ótimo trabalho"
                 },
                 {
                     "materia":"software",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":8,
+                    "data":"19/04/2024",
+                    "feedback":"Bom trabalho, faltaram apenas alguns detalhes"
                 },
                 {
                     "materia":"java",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":7.5,
+                    "data":"26/04/2024",
+                    "feedback":"Trabalho feito,com pequenos erros"
                 },
                 {
                     "materia":"ia",
                     "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "data":"27/06/2024",
+                    "feedback":"Prova não foi feita"
                 }
             ],
 
             "cp3":[
                 {
                     "materia":"python",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":8.1,
+                    "data":"20/05/2024",
+                    "feedback":"Bom trabalho"
                 },
                 {
                     "materia":"data",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":10,
+                    "data":"06/05/2024",
+                    "feedback":"Parabéns!"
                 },
                 {
                     "materia":"front",
                     "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "data":"10/06/2024",
+                    "feedback":"Aluno não fez a prova"
                 },
                 {
                     "materia":"software",
                     "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "data":"24/05/2024",
+                    "feedback":"CheckPoint não realizado"
                 },
                 {
                     "materia":"java",
                     "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "data":"17/05/2024",
+                    "feedback":"CheckPoint não realizado"
                 },
                 {
                     "materia":"ia",
                     "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "data":"27/06/24",
+                    "feedback":"CheckPoint não realizado"
                 }
             ],
 
             "cp4":[
                 {
                     "materia":"python",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":8.4,
+                    "data":"23/09/2024",
+                    "feedback":"Bom domínio, faltaram apenas pequenos ajustes"
                 },
                 {
                     "materia":"data",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":7,
+                    "data":"09/09/2024",
+                    "feedback":"Faltaram os drops"
                 },
                 {
                     "materia":"front",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":1.5,
+                    "data":"28/08/2024",
+                    "feedback":"Projeto não foi realizado corretamente"
                 },
                 {
                     "materia":"software",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":8.9,
+                    "data":"21/08/2024",
+                    "feedback":"Bom trabalho"
                 },
                 {
                     "materia":"java",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":9,
+                    "data":"30/08/2024",
+                    "feedback":"Belo desempenho, pouco ajustes necessários"
                 },
                 {
                     "materia":"ia",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":10,
+                    "data":"30/09/2024",
+                    "feedback":"Parabéns!"
                 }
             ],
 
             "cp5":[
                 {
                     "materia":"python",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":8.1,
+                    "data":"14/10/2024",
+                    "feedback":"Projeto ok, com alguns detalhes a melhorar"
                 },
                 {
                     "materia":"data",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":8,
+                    "data":"07/10/2024",
+                    "feedback":"Alguns ajustes necessários"
                 },
                 {
                     "materia":"front",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":6,
+                    "data":"02/10/2024",
+                    "feedback":"Site feito, com alguns erros"
                 },
                 {
                     "materia":"software",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":10,
+                    "data":"25/09/2024",
+                    "feedback":"Parabéns"
                 },
                 {
                     "materia":"java",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":10,
+                    "data":"27/09/2024",
+                    "feedback":"Ótimo projeto!"
                 }
             ]
         },
@@ -456,33 +457,33 @@
         "challenge":[
             {
                 "sprint":1,
-                "python":0,
-                "data":0,
-                "front":0,
-                "software":0,
-                "java":0,
-                "ia":0,
-                "descricao":""
+                "python":10,
+                "data":6,
+                "front":10,
+                "software":10,
+                "java":8,
+                "ia":9.5,
+                "descricao":"Sprint 1 myChanic"
             },
             {
                 "sprint":2,
-                "python":0,
-                "data":0,
-                "front":0,
-                "software":0,
-                "java":0,
-                "ia":0,
-                "descricao":""
+                "python":9.8,
+                "data":10,
+                "front":8,
+                "software":8,
+                "java":6.5,
+                "ia":10,
+                "descricao":"Sprint 2 myChanic"
             },
             {
                 "sprint":3,
-                "python":0,
-                "data":0,
-                "front":0,
-                "software":0,
-                "java":0,
-                "ia":0,
-                "descricao":""
+                "python":6,
+                "data":10,
+                "front":7,
+                "software":7,
+                "java":10,
+                "ia":10,
+                "descricao":"Sprint 3 myChanic"
             }
         ]
     },
