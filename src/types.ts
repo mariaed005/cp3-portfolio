@@ -9,6 +9,13 @@ export type TipoAlunos = {
     checkpoints:TipoCheckpoints;
 }
 
+export type TipoAluno = {
+    
+    id:number;
+    nome: string;
+    img: string;
+}
+
 export type TipoGs = {
     python:number;
     data:number;
