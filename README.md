@@ -17,3 +17,6 @@ Neste repositório está presente o nosso projeto para a entrega do CP3 referent
 - Guilherme Camargo <a href="https://github.com/camargoogui">camargoogui</a> - Rm 555166
 - Ícaro Albuquerque <a href="https://github.com/icaroalb1">icaroalb1</a> - Rm 555161
 - Maria Eduarda - <a href="https://github.com/mariaed005">mariaed005</a> - Rm 558976
+
+### Link do repositório:
+https://github.com/mariaed005/cp3-portfolio

@@ -14,13 +14,13 @@ export default function Menu() {
           <Link href="/alunos/2">Duda</Link>
         </li>
         <li>
-          <Link href="/aluno/3">Erick</Link>
+          <Link href="/alunos/3">Erick</Link>
         </li>
         <li>
-          <Link href="/aluno/4">Guilherme</Link>
+          <Link href="/alunos/4">Guilherme</Link>
         </li>
         <li>
-          <Link href="/aluno/5">Icaro</Link>
+          <Link href="/alunos/5">Icaro</Link>
         </li>
       </ul>
     </nav>
