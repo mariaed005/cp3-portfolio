@@ -969,50 +969,50 @@
         "img":"/images/icaro.jpeg",
 
         "gs":{
-            "python":0,
-            "data":0,
-            "front":0,
-            "software":0,
-            "java":0,
-            "ia":0,
-            "descricao":"Descrição da gs de vcs"
+            "python":10,
+            "data":8,
+            "front":8.5,
+            "software":8,
+            "java":8.3,
+            "ia":9.5,
+            "descricao":"Grupo composto por Bianca, Guilherme e Icaro, nosso projeto consistiu em alertar sobre os risco dos lixos nos oceanos e fizemos um reporte de poluição no site."
         },
 
         "checkpoints":{
             "cp1":[
                 {
                     "materia":"python",
-                    "nota":0,
+                    "nota":9.9,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"data",
-                    "nota":0,
+                    "nota":7.5,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"front",
-                    "nota":0,
+                    "nota":8,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"software",
-                    "nota":0,
+                    "nota":8,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"java",
-                    "nota":0,
+                    "nota":9,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"ia",
-                    "nota":0,
+                    "nota":10,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 }
@@ -1021,37 +1021,37 @@
             "cp2":[
                 {
                     "materia":"python",
-                    "nota":0,
+                    "nota":10,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"data",
-                    "nota":0,
+                    "nota":7.5,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"front",
-                    "nota":0,
+                    "nota":10,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"software",
-                    "nota":0,
+                    "nota":8,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"java",
-                    "nota":0,
+                    "nota":9,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"ia",
-                    "nota":0,
+                    "nota":8,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 }
@@ -1060,13 +1060,13 @@
             "cp3":[
                 {
                     "materia":"python",
-                    "nota":0,
+                    "nota":10,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
                 {
                     "materia":"data",
-                    "nota":0,
+                    "nota":7,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
@@ -1084,7 +1084,7 @@
                 },
                 {
                     "materia":"java",
-                    "nota":0,
+                    "nota":8,
                     "data":"00/00/00",
                     "feedback":"Feedback da cp de vcs"
                 },
@@ -1099,39 +1099,39 @@
             "cp4":[
                 {
                     "materia":"python",
-                    "nota":0,
+                    "nota":2.4,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Ruim."
                 },
                 {
                     "materia":"data",
-                    "nota":0,
+                    "nota":7,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Precisa melhorar alguns conceitos"
                 },
                 {
                     "materia":"front",
                     "nota":0,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Aluno não realizou"
                 },
                 {
                     "materia":"software",
                     "nota":0,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Aluno não realizou"
                 },
                 {
                     "materia":"java",
-                    "nota":0,
+                    "nota":9,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Bom trabalho!"
                 },
                 {
                     "materia":"ia",
-                    "nota":0,
+                    "nota":10,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Parabéns!"
                 }
             ],
 
@@ -1140,31 +1140,31 @@
                     "materia":"python",
                     "nota":0,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Aluno não realizou"
                 },
                 {
                     "materia":"data",
                     "nota":0,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Aluno não realizou"
                 },
                 {
                     "materia":"front",
                     "nota":0,
                     "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "feedback":"Ainda vai sair a nota"
                 },
                 {
                     "materia":"software",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":8,
+                    "data":"25/09/24",
+                    "feedback":"Precisa melhorar alguns conceitos"
                 },
                 {
                     "materia":"java",
-                    "nota":0,
-                    "data":"00/00/00",
-                    "feedback":"Feedback da cp de vcs"
+                    "nota":9,
+                    "data":"27/09/24",
+                    "feedback":"Precisa melhorar alguns conceitos"
                 }
             ]
         },
@@ -1172,32 +1172,32 @@
         "challenge":[
             {
                 "sprint":1,
-                "python":0,
-                "data":0,
-                "front":0,
-                "software":0,
-                "java":0,
-                "ia":0,
+                "python":96,
+                "data":60,
+                "front":70,
+                "software":80,
+                "java":95,
+                "ia":90,
                 "descricao":""
             },
             {
                 "sprint":2,
-                "python":0,
-                "data":0,
-                "front":0,
-                "software":0,
-                "java":0,
-                "ia":0,
+                "python":100,
+                "data":94,
+                "front":75,
+                "software":80,
+                "java":70,
+                "ia":100,
                 "descricao":""
             },
             {
                 "sprint":3,
-                "python":0,
-                "data":0,
-                "front":0,
-                "software":0,
-                "java":0,
-                "ia":0,
+                "python":94,
+                "data":90,
+                "front":85,
+                "software":70,
+                "java":85,
+                "ia":100,
                 "descricao":""
             }
         ]
