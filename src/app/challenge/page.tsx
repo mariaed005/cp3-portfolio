@@ -1,6 +1,7 @@
 import CardAvaliacao from "@/components/CardAvaliacao/CardAvaliacao";
+import { TipoAlunos } from "@/types";
 
-export default function Challenge() {
+export default function Challenge({params}:{params:{aluno:TipoAlunos}}) {
   const sprints = [
     {
       id: 1,
