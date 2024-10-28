@@ -90,7 +90,7 @@ export default function Aluno({params}:{params:{id:number}}) {
           setAluno(dados);
         }
         chamandoApi();
-      }, [params.id])
+      }, [])
 
     return (
         <div className="details-container">
